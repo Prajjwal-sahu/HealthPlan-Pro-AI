@@ -1,2 +1,2 @@
 # HealthPlan-Pro-AI
-HealthPlan Pro AI — Predicts medical insurance costs in India (2025) using advanced ML models like XGBoost and Random Forest.
+HealthPlan Pro AI leverages XGBoost and Random Forest to predict personalized medical insurance premiums based on age, BMI, region, and lifestyle factors — built with Flask, Python, and Scikit-learn.
